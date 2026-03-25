@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Stest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-19T10:53:07.691Z" hostname="GEO-GOLOVIZNIN" time="8.002">
+  <properties/>
+  <testcase name="shouldFindSelenideRepositoryAtTheTop()" classname="Stest" time="7.988"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+мар. 19, 2026 1:53:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 146, returning the closest version; found: 145; Please update to a Selenium version that supports CDP version 146
+]]></system-err>
+</testsuite>
